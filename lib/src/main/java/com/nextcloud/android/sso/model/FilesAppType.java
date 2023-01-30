@@ -24,7 +24,7 @@ import androidx.annotation.Nullable;
 
 public enum FilesAppType {
 
-    PROD("com.nextcloud.client", "nextcloud"),
+    PROD("com.kushm.client", "nextcloud"),
     QA("com.nextcloud.android.qa", "nextcloud.qa"),
     DEV("com.nextcloud.android.beta", "nextcloud.beta");
 
